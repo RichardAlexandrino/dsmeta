@@ -1,7 +1,7 @@
-import logo from '../../assets/img/logo.svg'
-import gitIcon from '../../assets/img/github.svg'
-import instaIcon from '../../assets/img/instagram.svg'
-import linkedInIcon from '../../assets/img/linkedin.svg'
+import logo from '../../assets/img/logo.svg';
+import gitIcon from '../../assets/img/github.svg';
+import instaIcon from '../../assets/img/instagram.svg';
+import linkedInIcon from '../../assets/img/linkedin.svg';
 import './styles.css'
 
 function Header() {
@@ -21,4 +21,4 @@ function Header() {
     )
 }
 
-export default Header
+export default Header;
